@@ -1,0 +1,17 @@
+title: Walker Lab
+email: jfw52@uic.edu
+twitter_username: evojfwalker
+github_username: walkerlab-uic
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - introduction.md
+  - people.md
+  - teaching.md
+  - publication.md
+
