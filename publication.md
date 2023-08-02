@@ -21,7 +21,13 @@ Putting the final touches on a couple in prep, some Ericales work, edge-based an
 
 ### Pre UIC publications (Aug. 2012 - Aug. 2021)
 
-SA Smith, _N Walker-Hale_, **JF Walker** and JW Brown. [Nested phylogenetic conflicts, combinability, and deep phylogenomics in plants](https://www.biorxiv.org/content/10.1101/371930v2.abstract). In press. Systematic Biology.
+*SA Smith*, N Walker-Hale*, **JF Walker\***. [Intragenic Conflict in Phylogenomic Data Sets](https://academic.oup.com/mbe/article-abstract/37/11/3380/5870841?login=false). 2020. Molecular Biology and Evolution.
+
+DA Larson, **JF Walker**, OM Vargas and SA Smith. [A consensus phylogenomic approach highlights paleopolyploid and rapid radiation in the history of Ericales](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1469). 2020. American Journal of Botany.
+
+SA Smith, _N Walker-Hale_, **JF Walker** and JW Brown. [Nested phylogenetic conflicts, combinability, and deep phylogenomics in plants](https://academic.oup.com/sysbio/article/69/3/579/5634158). 2020. Systematic Biology.
+
+S Tittes, **JF Walker**, L Torres-Martinez and N Emery. [Grow where you thrive or where only you can survive? A Bayesian analysis of tolerance curve evolution in a clade with diverse habitat affinities](https://www.journals.uchicago.edu/doi/abs/10.1086/701827) (2019). American Naturalist. 
 
 **JF Walker\***, _N Walker-Hale\*_, DA Larson, OM Vargas and GW Stull. [Characterizing gene tree conflict and systematic error in plastome-inferred phylogenies](https://peerj.com/articles/7747/) (2019). PeerJ. 
 
@@ -49,7 +55,6 @@ Y Yang, MJ Moore, SF Brockington, A Timoneda, T Feng, H Marx, **JF Walker** and 
 
 T Casey, **JF Walker**, K Bhide, J Thimmapuram and J Schoonmaker. [Global transcriptome difference in myokine and inflammatory genes in muscle of mature steer progeny is related to maternal lactation diet and muscle composition](https://www.physiology.org/doi/full/10.1152/physiolgenomics.00060.2018) (2018). Physiological Genomics.
 
-S Tittes, **JF Walker**, L Torres-Martinez and N Emery. [Grow where you thrive or where only you can survive? A Bayesian analysis of tolerance curve evolution in a clade with diverse habitat affinities](https://www.journals.uchicago.edu/doi/abs/10.1086/701827) (2019). American Naturalist. 
 
 **JF Walker**, RK Jansen, MJ Zanis and NC Emery (2015). [Sources of inversion variation in the small single copy (SSC) region of chloroplast genomes](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.3732/ajb.1500299). American Journal of Botany, 102:11. 
 
