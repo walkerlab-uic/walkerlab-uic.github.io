@@ -9,7 +9,7 @@ permalink: /people/
 
 ### Joe Walker (PI)
 
-<img src="https://walkerlab-uic.github.io/pictures/Me.jpg" alt="Me" width="400"/>
+<img src="https://walkerlab-uic.github.io/pictures/Me.jpg" alt="Me" width="300"/>
 
 My name is Joe Walker [faculty webpage here](https://bios.uic.edu/profiles/walker-joseph/). I received my BS from Purdue University in 2012, my Master’s degree from Purdue in 2014 (because who doesn’t want to stay in beautiful West Lafayette, Indiana), and my Ph.D. from the University of Michigan in 2018. I then went to the University of Cambridge as a research associate until 2021. Now I’m a faculty member who has the privilege of working with the folks listed on this page.
 
@@ -31,9 +31,13 @@ Karolis earned his Ph.D. from UIC in 2022. He is mainly working on applying popu
 
 ### Holly Robertson
 
-<img src="https://walkerlab-uic.github.io/pictures/Holly.jpg" alt="Holly" width="200"/>
+<img src="https://walkerlab-uic.github.io/pictures/Holly.jpeg" alt="Holly" width="200"/>
 
-### Tomi Jacobs
+Holly is externally co-supervised by the lab and based in Cambridge in the lab of [Edwige Moyroud](https://www.slcu.cam.ac.uk/people/edwige-moyroud), my fantastic postdoc advisor. She completed her undergraduate at the University of Cambridge and finished a Part II project on phylogenetic conflict under the supervision of myself and Edwige Moyroud. Holly later completed a Part III project at the Sanger Institute, working on genomics. She is now back to studying conflict, addressing it in both Carnivorous plants and Hibiscus.
+
+### Oluwatomi Jacobs
+
+Tomi is a first-year Ph.D. student learning the ways of UIC and developing her thesis. Tomi completed her undergraduate degree at the University of Ilorin, a Master's degree at Delaware State University, and a Thomas Wyatt Turner Fellow at Cornell University.
 
 ### Shawn Arreguin
 
@@ -42,6 +46,8 @@ Karolis earned his Ph.D. from UIC in 2022. He is mainly working on applying popu
 ### Miles Woodcock-Girard
 
 <img src="https://walkerlab-uic.github.io/pictures/Miles.jpg" alt="Miles" width="200"/>
+
+Miles is a senior at UIC pursuing a degree in Biomedical Engineering. His work in the lab has focused on various subjects, but his primary efforts are developing and maintaining Semblans, a C++ package to efficiently and thoroughly process short-read data in transcriptomes. [Click here to check it out](https://github.com/gladshire/Semblans).
 
 ## Former Lab Members
 
