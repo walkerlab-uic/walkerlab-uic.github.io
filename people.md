@@ -11,6 +11,7 @@ permalink: /people/
 
 <img src="https://walkerlab-uic.github.io/pictures/Me.jpg" alt="Me" width="200"/>
 
+My name is Joe Walker, I received by BS from Purdue University in 2012, my Masters also from Purdue in 2014, and my PhD from the University of Michigan in 2018.
 
 ## Postdoc
 
