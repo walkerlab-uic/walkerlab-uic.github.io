@@ -9,27 +9,39 @@ To see my google scholar with a complete list of papers please click [here](http
 
 **bold** denotes lab member
 
-_Italics_ denotes a mentored undergraduate.
-
 \*asterisks denotes equal contribution
 
 
 
 ### UIC Publications (Aug. 2021 - )
 
-Putting the final touches on a couple in prep, some Ericales work, edge-based analyses, and work on within gene conflict. Coming soon!
+N Ruiz-Vargas, **K Ramanauskas**, **AS Tyszka**, Roberta J Mason-Gamer and **Joseph F Walker**. [Transcriptome data from silica-preserved leaf tissue reveals gene flow patterns in a Caribbean bromeliad](https://www.biorxiv.org/content/10.1101/2023.06.16.545126v1.abstract). 2023. In review.
+
+**AS Tyszka**, **EC Bretz**, **HM Robertson**, **MD Woodcock-Girard**, **K Ramanauskas**, DA Larson, GW Stull and **JF Walker**. [Characterizing conflict and congruence of molecular evolution across organellar genome sequences for phylogenetics in land plants](https://www.frontiersin.org/articles/10.3389/fpls.2023.1125107/full). 2023. Frontiers in Plant Sciences.
+
+**Joseph F. Walker** and SA Smith. [Phylogenomic Conflict in Plants](https://press.princeton.edu/books/hardcover/9780691207599/species-tree-inference). 2023. Princeton Press. 
+
+G Reeves, A Tripathi, P Singh, MRW Jones, AK Nanda, C Musseau, M Craze, S Bowden, **JF Walker**, AR Bentley, CW Melnyk and JM Hibberd. [Monocotyledonous plants graft at the embryonic root–shoot interface](https://www.nature.com/articles/s41586-021-04247-y). 2022. Nature.
+
+E Moyroud, CA Airoldi, J Ferria, C Giorio, SS Steimer, PJ Rudall, CJ Prychid, S Halliwell, **JF Walker**, S Robinson, M Kalberer and BJ Glover. [Cuticle chemistry drives the development of diffraction gratings on the surface of Hibiscus trionum petals](https://pubmed.ncbi.nlm.nih.gov/36423640/). 2022. Current Biology.
+
+**JF Walker**, SA Smith, RGJ Hodel, E Moyroud. [Concordance-based approaches for the inference of relationships and molecular rates with phylogenomic data sets](https://academic.oup.com/sysbio/article/71/4/943/6317685?login=false). 2022. Systematic Biology.
+
+LC Wheeler\*, **JF Walker**\*, J Ng, R Deanna, A Dunbar-Wallis, A Backes, PH Pezzi, MV Palchetti, **HM Robertson**, A Monaghan, L Brandão de Freitas, GE Barboza, E Moyroud, SD Smith. [Transcription factors evolve faster than their structural gene targets in the flavonoid pigment pathway](https://academic.oup.com/mbe/article/39/3/msac044/6536971?login=false). 2022. Molecular Biology and Evolution.
+
+ALM Fairnie\*, MTS Yeo\*, S Gatti\*, E Chan\*, V Travaglia\*, **JF Walker**\*, E Moyroud. [Eco-Evo-Devo of petal pigmentation patterning](https://portlandpress.com/essaysbiochem/article/66/6/753/231916/Eco-Evo-Devo-of-petal-pigmentation-patterning). 2022. Essays in Biochemistry.
 
 ### Pre UIC publications (Aug. 2012 - Aug. 2021)
 
-*SA Smith*, N Walker-Hale*, **JF Walker\***. [Intragenic Conflict in Phylogenomic Data Sets](https://academic.oup.com/mbe/article-abstract/37/11/3380/5870841?login=false). 2020. Molecular Biology and Evolution.
+SA Smith\*, N Walker-Hale\*, **JF Walker**\*. [Intragenic Conflict in Phylogenomic Data Sets](https://academic.oup.com/mbe/article-abstract/37/11/3380/5870841?login=false). 2020. Molecular Biology and Evolution.
 
 DA Larson, **JF Walker**, OM Vargas and SA Smith. [A consensus phylogenomic approach highlights paleopolyploid and rapid radiation in the history of Ericales](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1469). 2020. American Journal of Botany.
 
-SA Smith, _N Walker-Hale_, **JF Walker** and JW Brown. [Nested phylogenetic conflicts, combinability, and deep phylogenomics in plants](https://academic.oup.com/sysbio/article/69/3/579/5634158). 2020. Systematic Biology.
+SA Smith, N Walker-Hale, **JF Walker** and JW Brown. [Nested phylogenetic conflicts, combinability, and deep phylogenomics in plants](https://academic.oup.com/sysbio/article/69/3/579/5634158). 2020. Systematic Biology.
 
 S Tittes, **JF Walker**, L Torres-Martinez and N Emery. [Grow where you thrive or where only you can survive? A Bayesian analysis of tolerance curve evolution in a clade with diverse habitat affinities](https://www.journals.uchicago.edu/doi/abs/10.1086/701827) (2019). American Naturalist. 
 
-**JF Walker\***, _N Walker-Hale\*_, DA Larson, OM Vargas and GW Stull. [Characterizing gene tree conflict and systematic error in plastome-inferred phylogenies](https://peerj.com/articles/7747/) (2019). PeerJ. 
+**JF Walker\***, N Walker-Hale\*, DA Larson, OM Vargas and GW Stull. [Characterizing gene tree conflict and systematic error in plastome-inferred phylogenies](https://peerj.com/articles/7747/) (2019). PeerJ. 
 
 SA Smith and **JF Walker**. [PyPHLAWD: A python package for phylogenetic dataset construction](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13096) (2019). Methods in Ecology and Evolution.
 
@@ -39,11 +51,11 @@ N Wang, Y Yang, MJ Moore, SF Brockington, **JF Walker**, JW Brown, T Feng, A Tim
 
 SA Smith, JW Brown\* and **JF Walker\***. [So many genes, so little time: A practical approach to divergence time estimation in the genomic era](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197433) (2018). Plos One, 13:5. 
 
-**JF Walker**, Y Yang, T Feng, A Timoneda, J Mikenas, V Hutchison, C Edwards, N Wang, _S Ahluwalia_, _J Olivieri_, _N Walker-Hale_, LC Majure, R Puente, G Kadereit, M Lauterbach, U Eggli, H Flores-Olvera, H Ochoterena, SF Brockington, MJ Moore and SA Smith. [From cacti to carnivores: Improved phylotranscriptomic sampling and hierarchical homology inference provides further insight to the evolution of Caryophyllales](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1069) (2018). American Journal of Botany, 105:3. 
+**JF Walker**, Y Yang, T Feng, A Timoneda, J Mikenas, V Hutchison, C Edwards, N Wang, S Ahluwalia, J Olivieri, N Walker-Hale, LC Majure, R Puente, G Kadereit, M Lauterbach, U Eggli, H Flores-Olvera, H Ochoterena, SF Brockington, MJ Moore and SA Smith. [From cacti to carnivores: Improved phylotranscriptomic sampling and hierarchical homology inference provides further insight to the evolution of Caryophyllales](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1069) (2018). American Journal of Botany, 105:3. 
 
 JB Pease, JW Brown, **JF Walker**, CE Hinchliff and SA Smith. [Quartet sampling distinguishes lack of support from conflicting support in plant tree of life](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1016) (2018). American Journal of Botany, 105:3. 
 
-Y Yang, MJ Moore, SF Brockington, J Mikenas, _J Olivieri_, **JF Walker** and SA Smith. [Improved transcriptome sampling pinpoints 26 paleopolyploidy events in Caryophyllales, including two paleo-allopolyploidy events](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14812) (2018). New Phytologist, 217:2. 
+Y Yang, MJ Moore, SF Brockington, J Mikenas, J Olivieri, **JF Walker** and SA Smith. [Improved transcriptome sampling pinpoints 26 paleopolyploidy events in Caryophyllales, including two paleo-allopolyploidy events](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14812) (2018). New Phytologist, 217:2. 
 
 SA Smith, JW Brown, Y Yang, R Bruenn, CP Drummond, SF Brockington, **JF Walker**, N Last, NA Douglas and MJ Moore. [Disparity, Diversity, and Duplications in the Caryophyllales](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14772) (2018). New Phytologist, 217:2. 
 
