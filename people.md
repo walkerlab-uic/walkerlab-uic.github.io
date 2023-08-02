@@ -27,7 +27,13 @@ Karolis earned his Ph.D. from UIC in 2022. He is mainly working on applying popu
 
 <img src="https://walkerlab-uic.github.io/pictures/Alexa.jpg" alt="Alexa" width="200"/>
 
+Alexa is a third-year Ph.D. candidate whose research focuses on developing new methods for obtaining transcriptomes and using them to study carnivory in Bromeliads. She completed her undergraduate degree in 2021 from UIC and joined the lab right as it started. She has received the [GRFP]( https://bios.uic.edu/news-stories/undergraduate-alexa-tyszka-awarded-national-science-foundation-graduate-research-fellowship/), the UIC research award, and the UIC graduate teaching award. You can check out her website [here]( https://atyszka.org/) and her google scholar [here]( https://scholar.google.com/citations?hl=en&user=P67UxboAAAAJ).
+
 ### Eric Bretz
+
+<img src="https://walkerlab-uic.github.io/pictures/Eric.png" alt="Eric" width="200"/>
+
+Eric is a second-year Ph.D. student whose research is focused on computational methods to clean up genomic data, specifically filtering out chimeras. Eric joined the Marines out of high school, then after his service, completed his undergraduate degree at UIC in 2020. He was a postbacc with Dr. Andrea McGinley Bassett for a year before deciding to join the lab. Despite only being in his second year, he has already co-first authored a paper and would have presented his work at Botany 2023 if he didn’t have his luggage accidentally sent to Denver instead of Boise. He has quickly picked up several programming languages. You can find his website [here]( https://ericbretz.weebly.com/), his linked in [here]( https://www.linkedin.com/in/eric-bretz-172986210/) and his google scholar [here]( https://bios.uic.edu/profiles/bretz-eric/).
 
 ### Holly Robertson
 
@@ -37,9 +43,15 @@ Holly is externally co-supervised by the lab and based in Cambridge in the lab o
 
 ### Oluwatomi Jacobs
 
+<img src="https://walkerlab-uic.github.io/pictures/Tomi.jpeg" alt="Tomi" width="200"/>
+
 Tomi is a first-year Ph.D. student learning the ways of UIC and developing her thesis. Tomi completed her undergraduate degree at the University of Ilorin, a Master's degree at Delaware State University, and a Thomas Wyatt Turner Fellow at Cornell University.
 
 ### Shawn Arreguin
+
+<img src="https://walkerlab-uic.github.io/pictures/Shawn.jpeg" alt="Shawn" width="200"/>
+
+Shawn is a first-year Ph.D. student who is co-advised with [Dr. Mary Ashley]( https://bios.uic.edu/profiles/mary-ashley/). He is working on developing his thesis, with a broad interest in urban ecosystems. Shawn completed his undergraduate degree at the University of Illinois Urbana-Champaign.
 
 ## Undergraduate Students
 
