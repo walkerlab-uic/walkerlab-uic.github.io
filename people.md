@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 
-### People Stuff Here
+### Folks in the lab
 
 
 ### Joe Walker
@@ -18,6 +18,8 @@ My name is Joe Walker [faculty webpage here](https://bios.uic.edu/profiles/walke
 ### Karolis Ramanauskas
 
 <img src="https://walkerlab-uic.github.io/pictures/Karolis.png" alt="Karolis" width="400"/>
+
+Karolis earned his Ph.D. from UIC in 2022. He is mainly working on applying population genetic methods to transcriptome datasets. However, he’s also pursuing a project disentangling why chloroplasts and mitochondria sometimes show conflicting phylogenetic signals. In his free time, he designs and maintains open-source software such as [kakapo](https://github.com/karolisr/kakapo).
 
 ## Graduate Students
 
@@ -49,3 +51,5 @@ My name is Joe Walker [faculty webpage here](https://bios.uic.edu/profiles/walke
 ### Pratiti Bandyopadhyay
 
 ### Josh Lee
+
+Josh completed his honors capstone project, studying the phylogenetic signal associated with dentition in primates. He has now graduated and is on his way to becoming a dentist, so sadly, I'll probably never see him again. 
