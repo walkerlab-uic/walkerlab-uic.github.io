@@ -9,7 +9,8 @@ permalink: /people/
 
 ### Joe Walker
 
-![Me](https://walkerlab-uic.github.io/pictures/Me.jpg)
+<img src="https://walkerlab-uic.github.io/pictures/Me.jpg" alt="Me" width="200"/>
+
 
 ## Postdoc
 
