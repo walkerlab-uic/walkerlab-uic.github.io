@@ -7,7 +7,7 @@ permalink: /people/
 ### Folks in the lab
 
 
-### Joe Walker
+### Joe Walker (PI)
 
 <img src="https://walkerlab-uic.github.io/pictures/Me.jpg" alt="Me" width="400"/>
 
@@ -17,7 +17,7 @@ My name is Joe Walker [faculty webpage here](https://bios.uic.edu/profiles/walke
 
 ### Karolis Ramanauskas
 
-<img src="https://walkerlab-uic.github.io/pictures/Karolis.png" alt="Karolis" width="400"/>
+<img src="https://walkerlab-uic.github.io/pictures/Karolis.png" alt="Karolis" width="200"/>
 
 Karolis earned his Ph.D. from UIC in 2022. He is mainly working on applying population genetic methods to transcriptome datasets. However, he’s also pursuing a project disentangling why chloroplasts and mitochondria sometimes show conflicting phylogenetic signals. In his free time, he designs and maintains open-source software such as [kakapo](https://github.com/karolisr/kakapo).
 
@@ -25,14 +25,13 @@ Karolis earned his Ph.D. from UIC in 2022. He is mainly working on applying popu
 
 ### Alexa Tyszka
 
-<img src="https://walkerlab-uic.github.io/pictures/Alexa.jpeg" alt="Alexa" width="400"/>
+<img src="https://walkerlab-uic.github.io/pictures/Alexa.jpg" alt="Alexa" width="200"/>
 
 ### Eric Bretz
 
 ### Holly Robertson
 
-<img src="https://walkerlab-uic.github.io/pictures/Holly.jpeg" alt="Holly" width="400"/>
-
+<img src="https://walkerlab-uic.github.io/pictures/Holly.jpg" alt="Holly" width="200"/>
 
 ### Tomi Jacobs
 
@@ -42,7 +41,7 @@ Karolis earned his Ph.D. from UIC in 2022. He is mainly working on applying popu
 
 ### Miles Woodcock-Girard
 
-<img src="https://walkerlab-uic.github.io/pictures/Miles.jpeg" alt="Miles" width="400"/>
+<img src="https://walkerlab-uic.github.io/pictures/Miles.jpg" alt="Miles" width="200"/>
 
 ## Former Lab Members
 
