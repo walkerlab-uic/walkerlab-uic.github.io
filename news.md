@@ -1,7 +1,7 @@
 ---
 layout: page
-title: People
-permalink: /people/
+title: News
+permalink: /News/
 ---
 
 
