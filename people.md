@@ -11,7 +11,7 @@ permalink: /people/
 
 <img src="https://walkerlab-uic.github.io/pictures/Me.jpg" alt="Me" width="200"/>
 
-My name is Joe Walker, I received by BS from Purdue University in 2012, my Masters also from Purdue in 2014, and my PhD from the University of Michigan in 2018.
+My name is Joe Walker [faculty webpage here](https://bios.uic.edu/profiles/walker-joseph/). I received my BS from Purdue University in 2012, my Master’s degree from Purdue in 2014 (because who doesn’t want to stay in beautiful West Lafayette, Indiana), and my Ph.D. from the University of Michigan in 2018. I then went to the University of Cambridge as a research associate until 2021. Now I’m a faculty member who has the privilege of working with the folks listed on this page.
 
 ## Postdoc
 
@@ -34,6 +34,8 @@ My name is Joe Walker, I received by BS from Purdue University in 2012, my Maste
 ### Miles Woodcock-Girard
 
 ## Former Lab Members
+
+### Vaishnavi Vanamala
 
 ### Pratiti Bandyopadhyay
 
