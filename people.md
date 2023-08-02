@@ -59,13 +59,17 @@ Shawn is a first-year Ph.D. student who is co-advised with [Dr. Mary Ashley]( ht
 
 <img src="https://walkerlab-uic.github.io/pictures/Miles.jpg" alt="Miles" width="200"/>
 
-Miles is a senior at UIC pursuing a degree in Biomedical Engineering. His work in the lab has focused on various subjects, but his primary efforts are developing and maintaining Semblans, a C++ package to efficiently and thoroughly process short-read data in transcriptomes. [Click here to check it out](https://github.com/gladshire/Semblans).
+Miles has been with us for a little over a year and is now a senior at UIC pursuing a degree in Biomedical Engineering. His work in the lab has focused on various subjects, but his primary efforts are developing and maintaining Semblans, a C++ package to efficiently and thoroughly process short-read data in transcriptomes. [Click here to check it out](https://github.com/gladshire/Semblans).
 
 ## Former Lab Members
 
 ### Vaishnavi Vanamala
 
+Vivi worked on her BME 398 project in the lab, developing Python programs to summarize and manipulate phylogenetic trees.
+
 ### Pratiti Bandyopadhyay
+
+Pratiti was an undergraduate student in the lab who completed her senior thesis with us. Her research focused on applying computational methods to the Caryophyllales. Pratiti then completed the postbacc program in this lab along with the lab of [Dr. Alex Shingleton]( https://bios.uic.edu/profiles/shingleton-alexander/) and is now pursuing her graduate degree at the University of Zurich.
 
 ### Josh Lee
 
