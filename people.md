@@ -9,6 +9,8 @@ permalink: /people/
 
 ### Joe Walker
 
+![Me](https://walkerlab-uic.github.io/Pirctures/Me.jpg)
+
 ## Postdoc
 
 ### Karolis Ramanauskas
