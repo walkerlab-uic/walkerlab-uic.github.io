@@ -17,7 +17,7 @@ To see my google scholar with a complete list of papers please click [here](http
 
 N Ruiz-Vargas, **K Ramanauskas**, **AS Tyszka**, Roberta J Mason-Gamer and **Joseph F Walker**. [Transcriptome data from silica-preserved leaf tissue reveals gene flow patterns in a Caribbean bromeliad](https://www.biorxiv.org/content/10.1101/2023.06.16.545126v1.abstract). 2023. In review.
 
-**AS Tyszka**, **EC Bretz**, **HM Robertson**, **MD Woodcock-Girard**, **K Ramanauskas**, DA Larson, GW Stull and **JF Walker**. [Characterizing conflict and congruence of molecular evolution across organellar genome sequences for phylogenetics in land plants](https://www.frontiersin.org/articles/10.3389/fpls.2023.1125107/full). 2023. Frontiers in Plant Sciences.
+**AS Tyszka**\*, **EC Bretz**\*, **HM Robertson**, **MD Woodcock-Girard**, **K Ramanauskas**, DA Larson, GW Stull and **JF Walker**. [Characterizing conflict and congruence of molecular evolution across organellar genome sequences for phylogenetics in land plants](https://www.frontiersin.org/articles/10.3389/fpls.2023.1125107/full). 2023. Frontiers in Plant Sciences.
 
 **Joseph F. Walker** and SA Smith. [Phylogenomic Conflict in Plants](https://press.princeton.edu/books/hardcover/9780691207599/species-tree-inference). 2023. Princeton Press. 
 
