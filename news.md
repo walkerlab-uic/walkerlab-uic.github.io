@@ -5,7 +5,7 @@ permalink: /News/
 ---
 
 
-### Conference
+### Dinner
 
 We went to Dinner!
 
@@ -14,6 +14,8 @@ We went to Dinner!
 <br>
 
 <br>
+
+### Conference
 
 We went to Botany!
 
