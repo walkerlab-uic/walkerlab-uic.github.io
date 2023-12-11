@@ -65,6 +65,8 @@ Miles has been with us for a little over a year and is now a senior at UIC pursu
 
 Linda has been working in the lab since the fall of 2023. Her projects have focused on analyzing next-generation sequencing data and the quality of the reads that are produced.
 
+<img src="https://walkerlab-uic.github.io/pictures/LindaMansour.jpg" alt="Linda" width="200"/>
+
 ## Former Lab Members
 
 ### Alexandra Siek
@@ -74,7 +76,7 @@ Alex worked in the lab as a BIOS391 student. Her project focused on transcriptom
 
 ### Renée King
 
-<img src="https://walkerlab-uic.github.io/pictures/ReneeKing.jpg" alt="Miles" width="200"/>
+<img src="https://walkerlab-uic.github.io/pictures/ReneeKing.jpg" alt="Renee" width="200"/>
 
 Renée completed her undergraduate thesis project in the lab. She analyzed how the quality of the sequencing has changed over time and what implications that may have.
 
