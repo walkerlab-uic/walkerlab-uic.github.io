@@ -61,7 +61,22 @@ Shawn is a first-year Ph.D. student who is co-advised with [Dr. Mary Ashley]( ht
 
 Miles has been with us for a little over a year and is now a senior at UIC pursuing a degree in Biomedical Engineering. His work in the lab has focused on various subjects, but his primary efforts are developing and maintaining Semblans, a C++ package to efficiently and thoroughly process short-read data in transcriptomes. [Click here to check it out](https://github.com/gladshire/Semblans).
 
+### Linda Mansour
+
+Linda has been working in the lab since the fall of 2023. Her projects have focused on analyzing next-generation sequencing data and the quality of the reads that are produced.
+
 ## Former Lab Members
+
+### Alexandra Siek
+
+Alex worked in the lab as a BIOS391 student. Her project focused on transcriptome assembly and what we can do with the different programs. Alex also worked on a side project for automatically labeling phylogenetic trees with their NCBI taxonomy.
+
+
+### Renée King
+
+<img src="https://walkerlab-uic.github.io/pictures/ReneeKing.jpg" alt="Miles" width="200"/>
+
+Renée completed her undergraduate thesis project in the lab. She analyzed how the quality of the sequencing has changed over time and what implications that may have.
 
 ### Vaishnavi Vanamala
 
