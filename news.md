@@ -7,6 +7,14 @@ permalink: /News/
 
 ### Conference
 
+We went to Dinner!
+
+![Dinner](https://walkerlab-uic.github.io/pictures/LabDinner.HEIC)
+
+<br>
+
+<br>
+
 We went to Botany!
 
 ![Botany2023](https://walkerlab-uic.github.io/pictures/LabBotany.jpg)
