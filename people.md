@@ -63,9 +63,11 @@ Miles has been with us for a little over a year and is now a senior at UIC pursu
 
 ### Linda Mansour
 
-Linda has been working in the lab since the fall of 2023. Her projects have focused on analyzing next-generation sequencing data and the quality of the reads that are produced.
 
 <img src="https://walkerlab-uic.github.io/pictures/LindaMansour.jpg" alt="Linda" width="200"/>
+
+Linda has been working in the lab since the fall of 2023. Her projects have focused on analyzing next-generation sequencing data and the quality of the reads that are produced.
+
 
 ## Former Lab Members
 
