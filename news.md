@@ -9,7 +9,7 @@ permalink: /News/
 
 We went to Dinner!
 
-![Dinner](https://walkerlab-uic.github.io/pictures/LabDinner.HEIC)
+![Dinner](https://walkerlab-uic.github.io/pictures/LabDinner.png)
 
 <br>
 

@@ -15,7 +15,9 @@ To see my google scholar with a complete list of papers please click [here](http
 
 ### UIC Publications (Aug. 2021 - )
 
-N Ruiz-Vargas, **K Ramanauskas**, **AS Tyszka**, Roberta J Mason-Gamer and **Joseph F Walker**. [Transcriptome data from silica-preserved leaf tissue reveals gene flow patterns in a Caribbean bromeliad](https://www.biorxiv.org/content/10.1101/2023.06.16.545126v1.abstract). 2023. In review.
+**HM Robertson**, **JF Walker**\*, **E Moyroud**\*. [Investigating Phylogenetic Conflict using Homolog Trees reveals the Genetic Basis of Phenotypic Convergence in Carnivorous Sundews](https://www.biorxiv.org/content/10.1101/2023.11.18.567661v1.abstract). 2023. In review.
+
+N Ruiz-Vargas, **K Ramanauskas**, **AS Tyszka**, Roberta J Mason-Gamer and **JF Walker**. [Transcriptome data from silica-preserved leaf tissue reveals gene flow patterns in a Caribbean bromeliad](https://www.biorxiv.org/content/10.1101/2023.06.16.545126v1.abstract). 2023. In review.
 
 **AS Tyszka**\*, **EC Bretz**\*, **HM Robertson**, **MD Woodcock-Girard**, **K Ramanauskas**, DA Larson, GW Stull and **JF Walker**. [Characterizing conflict and congruence of molecular evolution across organellar genome sequences for phylogenetics in land plants](https://www.frontiersin.org/articles/10.3389/fpls.2023.1125107/full). 2023. Frontiers in Plant Sciences.
 
