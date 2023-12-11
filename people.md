@@ -43,7 +43,7 @@ Holly is externally co-supervised by the lab and based in Cambridge in the lab o
 
 ### Oluwatomi Jacobs
 
-<img src="https://walkerlab-uic.github.io/pictures/Tomi.jpeg" alt="Tomi" width="200"/>
+<img src="https://walkerlab-uic.github.io/pictures/Tomi2.jpeg" alt="Tomi" width="200"/>
 
 Tomi is a first-year Ph.D. student learning the ways of UIC and developing her thesis. Tomi completed her undergraduate degree at the University of Ilorin, a Master's degree at Delaware State University, and a Thomas Wyatt Turner Fellow at Cornell University. You can find her github [here](https://github.com/Oluwatomijacobs), her linked in [here](https://www.linkedin.com/in/tomijacobs/) and her google scholar [here](https://scholar.google.com/citations?user=VePedzEAAAAJ&hl=en&authuser=1).
 
