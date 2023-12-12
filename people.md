@@ -73,6 +73,8 @@ Linda has been working in the lab since the fall of 2023. Her projects have focu
 
 ### Alexandra Siek
 
+<img src="https://walkerlab-uic.github.io/pictures/Alex.jpg" alt="Linda" width="200"/>
+
 Alex worked in the lab as a BIOS391 student. Her project focused on transcriptome assembly and what we can do with the different programs. Alex also worked on a side project for automatically labeling phylogenetic trees with their NCBI taxonomy.
 
 
