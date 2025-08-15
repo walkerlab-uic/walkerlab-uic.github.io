@@ -19,7 +19,7 @@ My name is Joe Walker [faculty webpage here](https://bios.uic.edu/profiles/walke
 
 <img src="https://walkerlab-uic.github.io/pictures/Karolis.png" alt="Karolis" width="200"/>
 
-Karolis earned his Ph.D. from UIC in 2022. He is the lab's go to point of contact for anything related to biology or programming. He's a computational molecular biologist with an in-depth knowledge of plant genomics. Pretty much the only thing Karolis seems to have trouble with is remembering Eric's name. Karolis single handedly wrote a new tree viewer in Rust that has been a huge help to the lab. You can find it [here](https://github.com/karolisr/treehouse). He has some level of involvement in most of the ongoing projects in the lab and facilitates pretty much all aspects of day to day operation.  In his free time, he designs and maintains open-source software such as [kakapo](https://github.com/karolisr/kakapo).
+Karolis earned his Ph.D. from UIC in 2022. He is the lab's go to point of contact for anything related to biology or programming. He's a computational molecular biologist with an in-depth knowledge of plant genomics. Pretty much the only thing Karolis seems to have trouble with is remembering Eric's name. Karolis single handedly wrote a new tree viewer in Rust that has been a huge help to the lab. You can find it [here](https://github.com/karolisr/treehouse). He has some level of involvement in most of the ongoing projects in the lab and facilitates pretty much all aspects of day to day operation.  In his free time, he designs and maintains open-source software such as [kakapo](https://github.com/karolisr/kakapo). Karolis updates his website less often than me, which you can find [here](http://karol.is/).
 
 ## Graduate Students
 
