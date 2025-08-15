@@ -6,6 +6,19 @@ permalink: /News/
 
 
 
+
+
+
+### Miles publishes Semblans!
+
+Miles developed Semblans in the lab as an automated transcriptome assembler. It's written in C++ and can be found [here](https://github.com/gladshire/Semblans), the paper can be found [here](https://academic.oup.com/bioinformatics/article/41/1/btaf003/7950665). Below is a picture of Miles receiving the research award for the work, with myself and Kevin his Ph.D. advisor.
+
+![SemblansMiles](https://walkerlab-uic.github.io/pictures/SemblansMiles.png)
+
+<br>
+
+<br>
+
 ### Holly Visits!
 
 Holly came to Chicago to spend some time in person with the lab. Here we are at dinner.
