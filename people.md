@@ -9,7 +9,7 @@ permalink: /people/
 
 ### Joe Walker (PI)
 
-<img src="https://walkerlab-uic.github.io/pictures/Me.jpg" alt="Me" width="300"/>
+<img src="https://walkerlab-uic.github.io/pictures/Joe.jpeg" alt="Joe" width="300"/>
 
 My name is Joe Walker [faculty webpage here](https://bios.uic.edu/profiles/walker-joseph/). I received my BS from Purdue University in 2012, my Master’s degree from Purdue in 2014 (because who doesn’t want to stay in beautiful West Lafayette, Indiana), and my Ph.D. from the University of Michigan in 2018. I then went to the University of Cambridge as a research associate until 2021. Now I’m a faculty member who has the privilege of working with the folks listed on this page. Also, on the rare occasion that I remember to update the website, I mostly edit the pages in vim without a grammar or spellchecker, so apologies to anyone who notces those mistkes.
 
