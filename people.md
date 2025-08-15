@@ -53,23 +53,36 @@ Tomi is a first-year Ph.D. student learning the ways of UIC and developing her t
 
 Shawn is a first-year Ph.D. student who is co-advised with [Dr. Mary Ashley]( https://bios.uic.edu/profiles/mary-ashley/). He is working on developing his thesis, with a broad interest in urban ecosystems. Shawn completed his undergraduate degree at the University of Illinois Urbana-Champaign.
 
+### Timi Okeseni
+
+
+
+### Jess Zhang
+
+
+
+## Postbaccs
+
+### Linda Mansour
+
+<img src="https://walkerlab-uic.github.io/pictures/LindaMansour.jpg" alt="Linda" width="200"/>
+
+Linda has been working in the lab since the fall of 2023 and luckily Linda has continued in the lab as a Postbacc to gain experience and develop a sense of what being a graduate student is like. Linda is an awesome programmer and has been working on developing programs that use LLMs to help navigate databases such as NCBI. You can follow her work [here](https://github.com/zawmbi/MissMap/tree/main). Her undergraduate work focused on analyzing next-generation sequencing data and the quality of the reads that are produced and she contributed to this study [here](https://www.biorxiv.org/content/10.1101/2025.02.12.637878v1.article-metrics).
+
+
 ## Undergraduate Students
+
+### Jordan Kressman
+
+Jordan has been doing a little bit of everything phylotrascriptomics related. She's rapidly learned the basics of the methods and howto process the data as she has worked with Tomi on analyzing Ice Plant data.
+
+## Former Lab Members
 
 ### Miles Woodcock-Girard
 
 <img src="https://walkerlab-uic.github.io/pictures/Miles.jpg" alt="Miles" width="200"/>
 
-Miles has been with us for a little over a year and is now a senior at UIC pursuing a degree in Biomedical Engineering. His work in the lab has focused on various subjects, but his primary efforts are developing and maintaining Semblans, a C++ package to efficiently and thoroughly process short-read data in transcriptomes. [Click here to check it out](https://github.com/gladshire/Semblans).
-
-### Linda Mansour
-
-
-<img src="https://walkerlab-uic.github.io/pictures/LindaMansour.jpg" alt="Linda" width="200"/>
-
-Linda has been working in the lab since the fall of 2023. Her projects have focused on analyzing next-generation sequencing data and the quality of the reads that are produced.
-
-
-## Former Lab Members
+Miles was with us for a little over two years and after finishing his undergrad degree in Biomedical Engineering, he moved on to the [Drew Lab](https://ksdrew.github.io/people/) for grad school. In lab he developed a C++ package to efficiently and thoroughly process short-read data in transcriptomes. [Click here to check it out](https://github.com/gladshire/Semblans) and the publication [here](https://academic.oup.com/bioinformatics/article/41/1/btaf003/7950665).
 
 ### Alexandra Siek
 
