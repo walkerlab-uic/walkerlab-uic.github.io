@@ -17,7 +17,7 @@ My name is Joe Walker [faculty webpage here](https://bios.uic.edu/profiles/walke
 
 ### Karolis Ramanauskas
 
-<img src="https://walkerlab-uic.github.io/pictures/Karolis.png" alt="Karolis" width="200"/>
+<img src="https://walkerlab-uic.github.io/pictures/Karolis.png" alt="Karolis" width="300"/>
 
 Karolis earned his Ph.D. from UIC in 2022. He is the lab's go to point of contact for anything related to biology or programming. He's a computational molecular biologist with an in-depth knowledge of plant genomics. Pretty much the only thing Karolis seems to have trouble with is remembering Eric's name. Karolis single handedly wrote a new tree viewer in Rust that has been a huge help to the lab. You can find it [here](https://github.com/karolisr/treehouse). He has some level of involvement in most of the ongoing projects in the lab and facilitates pretty much all aspects of day to day operation.  In his free time, he designs and maintains open-source software such as [kakapo](https://github.com/karolisr/kakapo). Karolis updates his website less often than me, which you can find [here](http://karol.is/).
 
@@ -25,7 +25,7 @@ Karolis earned his Ph.D. from UIC in 2022. He is the lab's go to point of contac
 
 ### Alexa Tyszka
 
-<img src="https://walkerlab-uic.github.io/pictures/Alexa.jpg" alt="Alexa" width="200"/>
+<img src="https://walkerlab-uic.github.io/pictures/Alexa.jpg" alt="Alexa" width="300"/>
 
 Alexa is a fifth-year Ph.D. candidate whose research focuses on developing new methods for obtaining transcriptomes from unpreserved tissue and studying how they may be used for transcriptomics. She's been pretty prolific in this area, helping with this [paper](https://academic.oup.com/aob/article/133/3/459/7512022) and authors this [perspective piece](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(24)00305-4) and this [study](https://www.biorxiv.org/content/10.1101/2025.02.12.637878v1). Alexa completed her undergraduate degree in 2021 from UIC and joined the lab right as it started. She has received the [GRFP]( https://bios.uic.edu/news-stories/undergraduate-alexa-tyszka-awarded-national-science-foundation-graduate-research-fellowship/), the UIC research award, and the UIC graduate teaching award. You can check out her website [here]( https://atyszka.org/) and her google scholar [here]( https://scholar.google.com/citations?hl=en&user=P67UxboAAAAJ).
 
