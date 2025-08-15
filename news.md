@@ -6,7 +6,11 @@ permalink: /News/
 
 
 
+### Alexa publishes work describing the potential of historical/ancient RNA!
 
+Alexa wrote an opinion piece on historical RNA describing what we can potentially learn from it. You can read it [here](https://www.cell.com/trends/plant-science/fulltext/S1360-1385\(24\)00305-4). Also, the article was featured on the cover, image below and a huge thanks to the field museum for letting us use their sample in the photo.
+
+![TrendsAlexaArticle](https://walkerlab-uic.github.io/pictures/TrendsAlexaArticle.png) 
 
 
 ### Miles publishes Semblans!
