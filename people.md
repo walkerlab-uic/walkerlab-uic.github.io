@@ -11,7 +11,7 @@ permalink: /people/
 
 <img src="https://walkerlab-uic.github.io/pictures/Me.jpg" alt="Me" width="300"/>
 
-My name is Joe Walker [faculty webpage here](https://bios.uic.edu/profiles/walker-joseph/). I received my BS from Purdue University in 2012, my Master’s degree from Purdue in 2014 (because who doesn’t want to stay in beautiful West Lafayette, Indiana), and my Ph.D. from the University of Michigan in 2018. I then went to the University of Cambridge as a research associate until 2021. Now I’m a faculty member who has the privilege of working with the folks listed on this page.
+My name is Joe Walker [faculty webpage here](https://bios.uic.edu/profiles/walker-joseph/). I received my BS from Purdue University in 2012, my Master’s degree from Purdue in 2014 (because who doesn’t want to stay in beautiful West Lafayette, Indiana), and my Ph.D. from the University of Michigan in 2018. I then went to the University of Cambridge as a research associate until 2021. Now I’m a faculty member who has the privilege of working with the folks listed on this page. Also, on the rare occasion that I remember to update the website, I mostly edit the pages in vim without a grammar or spellchecker, so apologies to anyone who notces those mistkes.
 
 ## Postdoc
 
@@ -19,7 +19,7 @@ My name is Joe Walker [faculty webpage here](https://bios.uic.edu/profiles/walke
 
 <img src="https://walkerlab-uic.github.io/pictures/Karolis.png" alt="Karolis" width="200"/>
 
-Karolis earned his Ph.D. from UIC in 2022. He is mainly working on applying population genetic methods to transcriptome datasets. However, he’s also pursuing a project disentangling why chloroplasts and mitochondria sometimes show conflicting phylogenetic signals. In his free time, he designs and maintains open-source software such as [kakapo](https://github.com/karolisr/kakapo).
+Karolis earned his Ph.D. from UIC in 2022. He is the lab's go to point of contact for anything related to biology or programming. He's a computational molecular biologist with an in-depth knowledge of plant genomics. Pretty much the only thing Karolis seems to have trouble with is remembering Eric's name. Karolis single handedly wrote a new tree viewer in Rust that has been a huge help to the lab. You can find it [here](https://github.com/karolisr/treehouse). He has some level of involvement in most of the ongoing projects in the lab and facilitates pretty much all aspects of day to day operation.  In his free time, he designs and maintains open-source software such as [kakapo](https://github.com/karolisr/kakapo).
 
 ## Graduate Students
 
