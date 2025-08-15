@@ -7,6 +7,13 @@ permalink: /News/
 
 ### Dinner
 
+
+
+We went to Botany 2024!
+
+![Botany2024](https://walkerlab-uic.github.io/pictures/Botany2024.png) 
+
+
 We went to Dinner!
 
 ![Dinner](https://walkerlab-uic.github.io/pictures/LabDinner.png)
