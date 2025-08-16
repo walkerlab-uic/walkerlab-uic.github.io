@@ -74,7 +74,9 @@ Linda has been working in the lab since the fall of 2023 and luckily Linda has c
 
 ### Jordan Kressman
 
-Jordan has been doing a little bit of everything phylotrascriptomics related. She's rapidly learned the basics of the methods and howto process the data as she has worked with Tomi on analyzing Ice Plant data.
+ <img src="https://walkerlab-uic.github.io/pictures/Jordan.jpg" alt="Jordan" width="300"/>
+
+Jordan Is a senior biological sciences major assisting Tomi Jacobs and Shawn Arreguin with their respective research. She spent her first two years of undergrad studies at Temple University in Philadelphia before transferring to UIC in Fall of 2024. Lately, Jordan has been doing a little bit of everything phylotrascriptomics related. She’s rapidly learned the basics of the methods and how to process transcriptomes as she has worked with Tomi on analyzing Ice Plant data.
 
 ## Former Lab Members
 
