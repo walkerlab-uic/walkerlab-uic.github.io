@@ -55,7 +55,7 @@ Shawn is a first-year Ph.D. student who is co-advised with [Dr. Mary Ashley]( ht
 
 ### Timi Okeseni
 
-<img src="https://walkerlab-uic.github.io/pictures/Timi.jepg" alt="Timi" width="300"/>
+<img src="https://walkerlab-uic.github.io/pictures/Timi.jpeg" alt="Timi" width="300"/>
 
 
 
